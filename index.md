@@ -1,37 +1,108 @@
-## Welcome to GitHub Pages
+# 👋 Hi, I'm JJ
 
-You can use the [editor on GitHub](https://github.com/jjesse/jjesse.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my GitHub Pages site! I'm a technologist who enjoys building tools around **cybersecurity**, **sports analytics**, **homelab automation**, and anything else that catches my eye. This page highlights the projects I'm actively working on and those I consider complete.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## 🔒 Cybersecurity & Professional Tools
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [security_podcasts](https://github.com/jjesse/security_podcasts) ⭐ 23
+> Python · Active
 
-```markdown
-Syntax highlighted code block
+A curated, community-sourced list of cybersecurity podcasts originally inspired by a post on r/cybersecurity. One of my most-starred repos!
 
-# Header 1
-## Header 2
-### Header 3
+### [security_search_engines](https://github.com/jjesse/security_search_engines)
+> Active
 
-- Bulleted
-- List
+A compiled list of cybersecurity-specific search engines gathered from a LinkedIn post and its comments — handy for threat research and OSINT.
 
-1. Numbered
-2. List
+### [zscaler_datacenters](https://github.com/jjesse/zscaler_datacenters)
+> JavaScript · Active · Topics: zscaler, zdx, docker-container
 
-**Bold** and _Italic_ and `Code` text
+Leverages Zscaler Cloud Enforcement Ranges to correlate IP addresses to their corresponding datacenter — useful for troubleshooting ZIA/ZPA traffic.
 
-[Link](url) and ![Image](src)
-```
+### [zscaler_demo_scripts](https://github.com/jjesse/zscaler_demo_scripts)
+> PowerShell · Active
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+A collection of PowerShell scripts used to demo and test Zscaler capabilities in lab and proof-of-concept environments.
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jjesse/jjesse.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## ⚾🏈 Sports & Fun
 
-### Support or Contact
+### [baseball_stats](https://github.com/jjesse/baseball_stats) ⭐ 1
+> JavaScript · Active · Topics: mlb, mlb-stats-api, baseball-statistics
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A dashboard built around live MLB stats — because winning the group chat requires good data.
+
+### [nfl-stats-dashboard](https://github.com/jjesse/nfl-stats-dashboard)
+> JavaScript · Active
+
+An NFL stats dashboard for tracking game and player stats throughout the season.
+
+### [nfl_predictions](https://github.com/jjesse/nfl_predictions)
+> JavaScript · Active
+
+Tracks weekly NFL score predictions among friends — because friendly competition needs a scoreboard.
+
+### [march-madness](https://github.com/jjesse/march-madness) ⭐ 1
+> TypeScript · Active
+
+An AI-generated March Madness bracket predictor — because maybe the machines can finally pick better than I do.
+
+---
+
+## 🏠 Homelab & Automation
+
+### [homelab_dashboard](https://github.com/jjesse/homelab_dashboard)
+> Python · Active
+
+A web-based dashboard for tracking everything running in my homelab — services, devices, and status at a glance.
+
+### [traffic-generator](https://github.com/jjesse/traffic-generator)
+> Python · Active
+
+PowerShell and Python scripts for generating realistic network traffic in my homelab — useful for testing security tools and IDS/IPS rules.
+
+### [minecraft_packs](https://github.com/jjesse/minecraft_packs)
+> JavaScript · Active
+
+Custom Minecraft behavior packs for my local Bedrock server — a little fun mixed in with the technical work.
+
+---
+
+## 🎲 Other Projects
+
+### [DnD_Character_Sheet](https://github.com/jjesse/DnD_Character_Sheet)
+> HTML · Active
+
+A web app for managing Dungeons & Dragons character sheets, built with GitHub Copilot.
+
+### [airbnb_guest_book](https://github.com/jjesse/airbnb_guest_book)
+> HTML · Active
+
+A digital guest book web app for an Airbnb property, also built with GitHub Copilot assistance.
+
+### [github_certificates](https://github.com/jjesse/github_certificates)
+> Active
+
+Notes and study materials for the various GitHub certifications.
+
+---
+
+## 🗂️ Archived / Completed Projects
+
+These projects have reached a natural stopping point or been superseded by newer work:
+
+| Repository | Description |
+|---|---|
+| [homelab_tracker](https://github.com/jjesse/homelab_tracker) | Earlier homelab tracker — superseded by `homelab_dashboard` |
+| [igel](https://github.com/jjesse/igel) | IGEL Connect App for Forescout (Python) |
+| [fs-playbooks](https://github.com/jjesse/fs-playbooks) | Ansible playbooks (archived) |
+| [presales_podcasts](https://github.com/jjesse/presales_podcasts) | Podcast list from the Presales Collective Twitter Space |
+
+---
+
+## 📫 Connect
+
+- **GitHub:** [github.com/jjesse](https://github.com/jjesse)
