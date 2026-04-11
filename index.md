@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # 👋 Hi, I'm JJ
 
 Welcome to my GitHub Pages site! I'm a technologist who enjoys building tools around **cybersecurity**, **sports analytics**, **homelab automation**, and anything else that catches my eye. This page highlights the projects I'm actively working on and those I consider complete.
