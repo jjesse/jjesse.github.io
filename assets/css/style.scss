@@ -1,0 +1,145 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ── Typography & readability ─────────────────────────────── */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.7;
+  color: #24292e;
+  background-color: #f6f8fa;
+}
+
+/* ── Page wrapper ─────────────────────────────────────────── */
+.page-header {
+  background-color: #1a7f5e;
+  background-image: linear-gradient(135deg, #0f5132 0%, #1a7f5e 60%, #22a373 100%);
+  padding: 2.5rem 2rem;
+}
+
+.project-name {
+  font-size: 2.2rem;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+.project-tagline {
+  font-size: 1.05rem;
+  opacity: 0.9;
+}
+
+/* ── Main content area ────────────────────────────────────── */
+.main-content {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 2.5rem 2rem;
+  background: #ffffff;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+}
+
+/* ── Headings ─────────────────────────────────────────────── */
+.main-content h1 {
+  font-size: 2rem;
+  border-bottom: 2px solid #1a7f5e;
+  padding-bottom: 0.35rem;
+  margin-top: 0;
+  color: #1a7f5e;
+}
+
+.main-content h2 {
+  font-size: 1.5rem;
+  color: #0f5132;
+  border-bottom: 1px solid #d1e7dd;
+  padding-bottom: 0.25rem;
+  margin-top: 2.5rem;
+}
+
+.main-content h3 {
+  font-size: 1.15rem;
+  color: #24292e;
+  margin-top: 1.6rem;
+  margin-bottom: 0.3rem;
+}
+
+/* ── Links ────────────────────────────────────────────────── */
+.main-content a {
+  color: #1a7f5e;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s;
+}
+
+.main-content a:hover {
+  border-bottom-color: #1a7f5e;
+}
+
+/* ── Blockquotes (used for project meta lines) ────────────── */
+.main-content blockquote {
+  margin: 0.25rem 0 0.75rem 0;
+  padding: 0.4rem 1rem;
+  border-left: 4px solid #1a7f5e;
+  background: #f0faf6;
+  color: #476055;
+  font-size: 0.92rem;
+  border-radius: 0 4px 4px 0;
+}
+
+/* ── Tables ───────────────────────────────────────────────── */
+.main-content table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.main-content th {
+  background: #0f5132;
+  color: #ffffff;
+  padding: 0.55rem 0.85rem;
+  text-align: left;
+}
+
+.main-content td {
+  padding: 0.5rem 0.85rem;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.main-content tr:nth-child(even) td {
+  background: #f6f8fa;
+}
+
+/* ── Horizontal rule ──────────────────────────────────────── */
+.main-content hr {
+  border: none;
+  border-top: 1px solid #d1e7dd;
+  margin: 2.2rem 0;
+}
+
+/* ── Navigation buttons in header ────────────────────────── */
+.btn {
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  color: #ffffff;
+  border-radius: 4px;
+  padding: 0.45rem 1rem;
+  font-size: 0.9rem;
+  margin: 0.25rem;
+  text-decoration: none;
+  transition: background 0.15s;
+}
+
+.btn:hover {
+  background: rgba(255, 255, 255, 0.3);
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* ── Footer ───────────────────────────────────────────────── */
+.site-footer {
+  font-size: 0.85rem;
+  color: #6a737d;
+  padding: 1.5rem 2rem;
+  text-align: center;
+}

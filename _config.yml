@@ -1,5 +1,9 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
 title: JJ's GitHub Portfolio
 description: >-
   A collection of projects I'm working on and have completed — spanning
   cybersecurity tools, sports dashboards, homelab utilities, and more.
+
+header_pages:
+  - index.md
+  - resume.md
