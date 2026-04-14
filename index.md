@@ -35,17 +35,17 @@ A collection of PowerShell scripts used to demo and test Zscaler capabilities in
 
 ## ⚾🏈 Sports & Fun
 
-### [baseball_stats](https://github.com/jjesse/baseball_stats) ⭐ 1
+### [baseball_stats](https://github.com/jjesse/baseball_stats) ⭐ 1 · [🌐 Live Site](https://jjesse.github.io/baseball_stats/)
 > JavaScript · Active · Topics: mlb, mlb-stats-api, baseball-statistics
 
 A dashboard built around live MLB stats — because winning the group chat requires good data.
 
-### [nfl-stats-dashboard](https://github.com/jjesse/nfl-stats-dashboard)
+### [nfl-stats-dashboard](https://github.com/jjesse/nfl-stats-dashboard) · [🌐 Live Site](https://jjesse.github.io/nfl-stats-dashboard/)
 > JavaScript · Active
 
 An NFL stats dashboard for tracking game and player stats throughout the season.
 
-### [nfl_predictions](https://github.com/jjesse/nfl_predictions)
+### [nfl_predictions](https://github.com/jjesse/nfl_predictions) · [🌐 Live Site](https://jjesse.github.io/nfl_predictions/)
 > JavaScript · Active
 
 Tracks weekly NFL score predictions among friends — because friendly competition needs a scoreboard.
