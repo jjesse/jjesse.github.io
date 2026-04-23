@@ -5,6 +5,8 @@ title: Resume
 
 # Jonathan Jesse
 
+**Navigate:** [Home](/)
+
 📍 Grand Rapids, MI &nbsp;|&nbsp; 🐙 [github.com/jjesse](https://github.com/jjesse) &nbsp;|&nbsp; 💼 [linkedin.com/in/jjesse](https://www.linkedin.com/in/jjesse/) &nbsp;|&nbsp; 🐦 [@jjesse](https://twitter.com/jjesse)
 
 ---
@@ -75,4 +77,3 @@ Selected open-source projects — see [full portfolio](/) for more.
 ## Education
 
 <!-- Add education from LinkedIn here -->
-
